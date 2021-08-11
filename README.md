@@ -4,4 +4,4 @@ Wanted to experiment with auth using jwt tokens. This was an old project that I 
 
 ### You can see the project demo below
 
-[demo](todo-with-jwt-auth.netlify.app)
+[demo](https://todo-with-jwt-auth.netlify.app/)
